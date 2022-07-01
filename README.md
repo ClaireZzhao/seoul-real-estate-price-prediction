@@ -18,8 +18,7 @@
 
 ### 예측 모델
 - [인코딩 및 스케일링](https://github.com/ClaireZzhao/seoul-real-estate-price-prediction/blob/8a62e6e14cdaf0c69dcaf34618644284663d3d01/seoul-real-estate-price-prediction.py#L326)
-- 6가지의 예측 모델 생성
-- 모델 평가
+- [6가지의 예측 모델 생성 & 평가](https://github.com/ClaireZzhao/seoul-real-estate-price-prediction/blob/4bf9ea37b83051c2a92a9a19dc4ad642d82a5f89/seoul-real-estate-price-prediction.py#L356)
 - 모델 튜닝
 - overfitting 유무 확인
 
