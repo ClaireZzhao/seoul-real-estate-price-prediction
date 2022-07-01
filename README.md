@@ -12,9 +12,7 @@
 - 20개의 칼럼 중 8개의 칼럼만 추출
 - 결측치 및 이상치 확인 & 처리
 
-### 데이터 시각화 및 분석
-
-<img src="https://github.com/ClaireZzhao/seoul-real-estate-price-prediction/blob/main/resources/%E1%84%8C%E1%85%A1%E1%84%8E%E1%85%B5%E1%84%80%E1%85%AE%E1%84%86%E1%85%A7%E1%86%BC%20vs%20%E1%84%86%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A5%E1%86%AB%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A2%E1%86%A8.png" />
+### [데이터 시각화 및 분석](https://github.com/ClaireZzhao/seoul-real-estate-price-prediction/blob/main/resources/data%20visualization%20seoul%20real%20estate.pdf)
 
 ### 예측 모델
 - [인코딩 및 스케일링](https://github.com/ClaireZzhao/seoul-real-estate-price-prediction/blob/8a62e6e14cdaf0c69dcaf34618644284663d3d01/seoul-real-estate-price-prediction.py#L326)
