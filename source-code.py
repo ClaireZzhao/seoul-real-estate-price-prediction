@@ -28,7 +28,7 @@ from yellowbrick.regressor import ResidualsPlot
 
 pd.set_option("display.max_columns", 50)
 
-raw_data = pd.read_csv("/Users/yingying/ITWILL/팀프로젝트/최종프로젝트/서울시 부동산 실거래가 정보.csv",
+raw_data = pd.read_csv("서울시 부동산 실거래가 정보.csv",
                 encoding="euc_kr", low_memory=False)
 
 
